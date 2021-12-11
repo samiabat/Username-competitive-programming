@@ -1,1 +1,1 @@
-# Username-competitive-programming
+competitive-programming
